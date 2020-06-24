@@ -1,0 +1,17 @@
+{
+  "name": "bumped_release",
+  "description": "自动版本管理示例",
+  "homepage": "https://github.com/magiccaptain/bumped-release#readme",
+  "version": "0.0.1",
+  "main": "main.py",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magiccaptain/bumped-release.git"
+  },
+  "bugs": {
+    "url": "https://github.com/magiccaptain/bumped-release/issues"
+  },
+  "files": [
+    "src"
+  ]
+}
