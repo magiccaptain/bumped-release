@@ -2,7 +2,7 @@
   "name": "bumped_release",
   "description": "自动版本管理示例",
   "homepage": "https://github.com/magiccaptain/bumped-release#readme",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "main.py",
   "repository": {
     "type": "git",

@@ -1,3 +1,8 @@
+## 0.3.0 (2020-06-24)
+
+
+
+
 ## 0.2.0 (2020-06-24)
 
 * feat(main): say i am back ([327ad36](https://github.com/magiccaptain/bumped-release/commit/327ad36))
